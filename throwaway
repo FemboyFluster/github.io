@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <!-- Metadata and such -->
+
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://cdn.discordapp.com/attachments/617693906271993856/730823921485611136/Red_Android.png" />
+<meta name="msapplication-square70x70logo" content="https://cdn.discordapp.com/attachments/617693906271993856/730823921485611136/Red_Android.png" />
+<meta name="msapplication-square150x150logo" content="https://cdn.discordapp.com/attachments/617693906271993856/730823921485611136/Red_Android.png" />
+<meta name="msapplication-wide310x150logo" content="https://cdn.discordapp.com/attachments/617693906271993856/730823921485611136/Red_Android.png" />
+<meta name="msapplication-square310x310logo" content="https://cdn.discordapp.com/attachments/617693906271993856/730823921485611136/Red_Android.png" />
+  </head>
+      <style>
+html, body {
+min-height: 100vh;
+  margin: 0;
+  padding: 0 ;
+    width: 100%;
+  background: url("") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: Red;
+    padding-bottom: 2.5rem; 
+}
+
+div.full-height {
+  margin: 0 ; 
+ padding: 0 ; 
+  color: Red;
+  text-align: center;
+  font-size: 100px;
+}
+          
+div.linksset {
+ margin: 0 ; 
+ padding: 0 ; 
+     width: 100%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+overflow:auto;
+}
+</style>  
+  <body>
+ <div class="full-height">Red Android's Site</div>
+
+ <center>
+ <a href="https://discord.gg/w3eNqX3">
+ <img alt="Stage Fright" src="" width=170" height="170"></a>
+ <a href="https://www.youtube.com/channel/UCBDAi7m6F-BUs5DGzt2DsIg">
+  <img src="" alt="Red Android Certification" width=170" height="170"></a> 
+ <img alt="Purple Android" src="" width=170" height="170"></a>
+ </center>
+<br>
+ <br>
+ <br>
+ <h1><strong>People I Sound Like:</strong></h1>
+ <br>
+       <a href="https://www.youtube.com/channel/UCPr3T20IPZ03gU9gZ2BwM5g">
+ <img alt="The Click" src="https://yt3.ggpht.com/a/AATXAJwFpqUNZq4uvuItOqx7dI3BSYsBOfnmuVj2Gh1TVA=s48-c-k-c0xffffffff-no-rj-mo" width=50" height="50"></a>
+       
+ <a href="https://www.youtube.com/channel/UChfYPe-r_5EMHbBMT-YuYsA">
+ <img alt="Your Narrator" src="https://yt3.ggpht.com/a/AATXAJxx3Ry5pWeABcKQJjvDs5GQ2XI6SARu8ZuLDhLQDg=s176-c-k-c0x00ffffff-no-rj-mo" width=50" height="50"></a>
+
+      <a href="https://www.youtube.com/channel/UC-1b52dI6MuR5BNLQj2FvFg">
+ <img alt="Hell Bent" src=" https://yt3.ggpht.com/a/AATXAJy_lg8C7Rga81LbHVRvIAXRge8HR3TtJq6SK56eig=s176-c-k-c0x00ffffff-no-rj-mo" width=50" height="50"></a>
+
+      <a href="https://www.youtube.com/channel/UCFNTq9XKHDNy_1-2lL0kqCg">
+ <img alt="Corpse Husband" src="https://yt3.ggpht.com/a/AATXAJyDMtQmqvdkhpwSDh8hlIaehcgNRYRESLSfwJyVzA=s176-c-k-c0x00ffffff-no-rj-mo" width=50" height="50"></a>
+ <br>
+ <h1><strong>My Studio Equipment:</strong></h1>
+ <br>
+   <a href="https://www.amazon.com/Antlion-Audio-ModMic-Attachable-Omni-Directional/dp/B01MCYRKY3">
+ <img alt="Mod Mic 5" src="https://images-na.ssl-images-amazon.com/images/I/818Jo-Sd-1L._AC_SL1500_.jpg" width=50" height="50"></a>           
+    <a href="https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR73T66">
+ <img alt="Focusrite 2i2" src="https://images-na.ssl-images-amazon.com/images/I/71ST3ZS964L._AC_SL1500_.jpg" width=50" height="50"></a>
+  <a href="https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR6Z1JB">
+ <img alt="Focusrite Solo" src="https://images-na.ssl-images-amazon.com/images/I/717gKDL1iML._AC_SL1500_.jpg" width=50" height="50"></a>
+    <a href="https://www.amazon.com/dbx-286s-Microphone-Channel-Processor/dp/B004LWH79A">
+ <img alt="DBX 286s" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQacUhczy21v_qskoNIPAw64QyaA1LEvqbCXw&usqp=CAU" width=50" height="50"></a>                                                                                                                              
+      <a href="https://www.reaper.fm/">
+ <img alt="Reaper" src="https://www.reaper.fm/v5img/logo.jpg" width=50" height="50"></a>      
+ <br>
+     
+      <div class="linksset">
+ <h1><strong>My Links:</strong></h1>
+ <br>
+<a href="https://www.youtube.com/@FemFluster">
+<img alt="Youtube" src="https://www.syfy.com/sites/syfy/files/2019/04/youtube_logo_0.png" width=50" height="50"></a>              
+
+
+
+
+
+<script type="text/javascript">
+window.onload = function randomlinks(){
+    var myrandom=Math.round(Math.random()*9)
+    var links=new Array()
+    links[0]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[1]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[2]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[3]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[4]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[5]="http://www.gamespot.com"
+    links[6]="http://www.msnbc.com"
+    links[7]="http://www.cnn.com"
+    links[8]="http://news.bbc.co.uk"
+    links[9]="http://www.news.com.au"
+window.location=links[myrandom]
+ 
+    window.location.replace(links[myrandom])
+
+}
+</script>
+</script>
+</body>
+</html>

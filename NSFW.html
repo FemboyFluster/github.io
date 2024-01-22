@@ -1,0 +1,113 @@
+<body>
+  <section class="section">
+    <div class="container">
+      <div class="notification is-info is-light">
+        <button class="delete"></button>
+        Visit my Discord Sever <a href="https://rauf.wtf/discord">https://rauf.wtf/discord</a>
+      </div>
+      <div class="notification is-success is-light">
+        <button class="delete"></button>
+        Help support the Embed Generator by donating to me via <a href="https://ko-fi.com/itsrauf">Ko-Fi</a>
+      </div>
+      <h1 class="title">Rauf's Embed Generator</h1>
+      <div class="notification is-warning">
+        This tool is <strong>Use At Your Own Risk</strong> and I am not responsible for what happens by you using it.
+      </div>
+      <div class="field">
+        <label class="label" for="domain">Domain</label>
+        <div class="field">
+          <div class="control">
+            <div class="select is-link is-rounded is-fullwidth">
+              <select id="domain">
+                <option>https://embed.rauf.workers.dev/</option>
+                <option>https://embed.rauf.wtf/</option>
+                <option>https://rauf.wtf/embed/</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="author">Author Text</label>
+          <div class="control">
+            <input class="input is-rounded" type="text" placeholder="Author Text..." id="author">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="title">Title Text</label>
+          <div class="control">
+            <input class="input is-rounded" type="text" placeholder="Title Text..." id="title">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="description">Description</label>
+          <div class="control">
+            <textarea class="textarea" placeholder="Description..." id="description"></textarea>
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="color">Sidebar Color</label>
+          <div class="control">
+            <input class="input is-rounded is-large" type="color" id="color">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="image">Image URL</label>
+          <div class="control">
+            <input class="input is-rounded" type="text" placeholder="Image URL..." id="image">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label" for="redirect">Redirect URL</label>
+          <div class="control">
+            <input class="input is-rounded" type="text" placeholder="Redirect URL..." id="redirect">
+          </div>
+        </div>
+        <div class="field">
+          <p class="control">
+            <button class="button is-info is-rounded is-medium is-fullwidth" id="generate">
+              Generate
+            </button>
+          </p>
+        </div>
+        <div class="field" id="finalURL" hidden>
+          <article class="message is-info">
+            <div class="message-header">
+              <p>Generated URL</p>
+            </div>
+            <div class="message-body" id="finalURLText">
+              Placeholder Text
+            </div>
+          </article>
+        </div>
+      </div>
+  </section>
+  <script src="https://embed.rauf.workers.dev/index.js" defer></script>
+</body>
+
+
+<script type="text/javascript">
+window.onload = function randomlinks(){
+    var myrandom=Math.round(Math.random()*9)
+    var links=new Array()
+    links[0]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[1]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[2]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[3]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[4]="https://cdn.discordapp.com/attachments/986233642135191632/1022982851106443264/VRChat_1920x1080_2022-09-23_16-32-18.407.png"
+    links[5]="http://www.gamespot.com"
+    links[6]="http://www.msnbc.com"
+    links[7]="http://www.cnn.com"
+    links[8]="http://news.bbc.co.uk"
+    links[9]="http://www.news.com.au"
+window.location=links[myrandom]
+    window.location.replace(links[myrandom])
+window.location.href = links[myrandom]
+}
+</script>
+
+<head>
+<meta property="og:title" content="test" />
+<meta property="og:image" content="https://media.discordapp.net/attachments/986218559170564126/1022613160366194861/VRChat_1920x1080_2022-09-21_00-14-09.383.png" />
+<meta name="theme-color" content="#2F3136">
+<meta name="twitter:card" content="summary_large_image">
+</head/
